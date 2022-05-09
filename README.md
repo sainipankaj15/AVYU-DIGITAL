@@ -1,5 +1,5 @@
 # AVYU-DIGITAL
-- This is a free-lancing website which I created for one of my friend.
+- This is a free-lancing website (LIghter version of E-commerce Website)
 - Users can checkout his all services by this [Website](https://sainipankaj15.github.io/AVYU-DIGITAL/).
 # Technology used
 - HTML 5 <br>
